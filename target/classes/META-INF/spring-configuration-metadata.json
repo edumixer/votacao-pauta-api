@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "user.info",
+      "type": "com.votacaopauta.client.UrlProperties",
+      "sourceType": "com.votacaopauta.client.UrlProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "user.info.url",
+      "type": "java.lang.String",
+      "sourceType": "com.votacaopauta.client.UrlProperties"
+    }
+  ],
+  "hints": []
+}
